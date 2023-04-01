@@ -1,0 +1,37 @@
+.imge {
+    padding: 0;
+}
+
+.image {
+    display: flex;
+    background: #cddded;
+    justify-content: center;
+}
+
+.imge .image img {
+    width: 55%;
+}
+
+h3 span {
+    color: var(--red);
+}
+
+.col {
+    color: #0080ff;
+}
+
+.description {
+    width: 75%;
+    font-size: 1.5rem;
+    padding: 0.5rem 0rem 2rem 0rem;
+}
+
+.box label {
+    font-size: 1.6rem;
+    font-weight: 700;
+}
+
+.pro{
+  display: flex;
+flex-direction: column;
+}
